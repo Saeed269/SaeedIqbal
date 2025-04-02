@@ -1,0 +1,14 @@
+C:\Users\muham\OneDrive\Escritorio\AC11\obj\Debug\net8.0\AC11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Escritorio\AC11\obj\Debug\net8.0\AC11.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Escritorio\AC11\obj\Debug\net8.0\AC11.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Escritorio\AC11\obj\Debug\net8.0\AC11.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Escritorio\AC11\bin\Debug\net8.0\AC11.exe
+C:\Users\muham\OneDrive\Escritorio\AC11\bin\Debug\net8.0\AC11.deps.json
+C:\Users\muham\OneDrive\Escritorio\AC11\bin\Debug\net8.0\AC11.runtimeconfig.json
+C:\Users\muham\OneDrive\Escritorio\AC11\bin\Debug\net8.0\AC11.dll
+C:\Users\muham\OneDrive\Escritorio\AC11\bin\Debug\net8.0\AC11.pdb
+C:\Users\muham\OneDrive\Escritorio\AC11\obj\Debug\net8.0\AC11.dll
+C:\Users\muham\OneDrive\Escritorio\AC11\obj\Debug\net8.0\refint\AC11.dll
+C:\Users\muham\OneDrive\Escritorio\AC11\obj\Debug\net8.0\AC11.pdb
+C:\Users\muham\OneDrive\Escritorio\AC11\obj\Debug\net8.0\AC11.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Escritorio\AC11\obj\Debug\net8.0\ref\AC11.dll
