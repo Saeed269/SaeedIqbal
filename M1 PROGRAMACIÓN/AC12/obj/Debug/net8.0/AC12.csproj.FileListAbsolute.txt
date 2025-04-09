@@ -1,0 +1,14 @@
+C:\Users\muham\OneDrive\Escritorio\AC12\bin\Debug\net8.0\AC12.exe
+C:\Users\muham\OneDrive\Escritorio\AC12\bin\Debug\net8.0\AC12.deps.json
+C:\Users\muham\OneDrive\Escritorio\AC12\bin\Debug\net8.0\AC12.runtimeconfig.json
+C:\Users\muham\OneDrive\Escritorio\AC12\bin\Debug\net8.0\AC12.dll
+C:\Users\muham\OneDrive\Escritorio\AC12\bin\Debug\net8.0\AC12.pdb
+C:\Users\muham\OneDrive\Escritorio\AC12\obj\Debug\net8.0\AC12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Escritorio\AC12\obj\Debug\net8.0\AC12.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Escritorio\AC12\obj\Debug\net8.0\AC12.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Escritorio\AC12\obj\Debug\net8.0\AC12.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Escritorio\AC12\obj\Debug\net8.0\AC12.dll
+C:\Users\muham\OneDrive\Escritorio\AC12\obj\Debug\net8.0\refint\AC12.dll
+C:\Users\muham\OneDrive\Escritorio\AC12\obj\Debug\net8.0\AC12.pdb
+C:\Users\muham\OneDrive\Escritorio\AC12\obj\Debug\net8.0\AC12.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Escritorio\AC12\obj\Debug\net8.0\ref\AC12.dll
