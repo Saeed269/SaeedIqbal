@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "M5UF3AC7/1.0.0": {
+        "runtime": {
+          "M5UF3AC7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M5UF3AC7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

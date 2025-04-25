@@ -1,0 +1,14 @@
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\bin\Debug\net8.0\M5UF3AC7.exe
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\bin\Debug\net8.0\M5UF3AC7.deps.json
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\bin\Debug\net8.0\M5UF3AC7.runtimeconfig.json
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\bin\Debug\net8.0\M5UF3AC7.dll
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\bin\Debug\net8.0\M5UF3AC7.pdb
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\obj\Debug\net8.0\M5UF3AC7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\obj\Debug\net8.0\M5UF3AC7.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\obj\Debug\net8.0\M5UF3AC7.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\obj\Debug\net8.0\M5UF3AC7.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\obj\Debug\net8.0\M5UF3AC7.dll
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\obj\Debug\net8.0\refint\M5UF3AC7.dll
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\obj\Debug\net8.0\M5UF3AC7.pdb
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\obj\Debug\net8.0\M5UF3AC7.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Escritorio\M5UF3AC7\obj\Debug\net8.0\ref\M5UF3AC7.dll
